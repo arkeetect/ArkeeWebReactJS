@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkeeWebReactJS", "ArkeeWebReactJS\ArkeeWebReactJS.csproj", "{AC081079-AF65-4E63-A020-14DE221C4B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC081079-AF65-4E63-A020-14DE221C4B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC081079-AF65-4E63-A020-14DE221C4B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC081079-AF65-4E63-A020-14DE221C4B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC081079-AF65-4E63-A020-14DE221C4B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972BDF7C-C80D-4FCB-89BB-FB576B5D4B4E}
+	EndGlobalSection
+EndGlobal
